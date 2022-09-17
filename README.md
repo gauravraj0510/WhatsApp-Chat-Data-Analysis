@@ -4,7 +4,15 @@ A webapp built using streamlit module in python for analysing exported whatsapp 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/1.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/2.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/3.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/4.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/5.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/6.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/7.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/8.png)
+![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/9.png)
 
 ## Demo
 
