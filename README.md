@@ -2,6 +2,10 @@
 
 A webapp built using streamlit module in python for analysing exported whatsapp chats. This project includes Data Retrieval & Preprocessing, Exploratory Data Analysis, Data Visualization, Data Interpretation and then summarizing the Inferences using matplotlib and pandas library. With the web app anyone can upload expoerted chats and view a visual analysis of the chats involving various frequency graphs and heatmaps. This project was done to learn and implement rudiments of Data Science and analytics.
 
+## Demo
+
+https://gauravraj0510-whatsapp-chat-data-analysis-app-njjw5q.streamlitapp.com/
+
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/1.png)
@@ -13,7 +17,3 @@ A webapp built using streamlit module in python for analysing exported whatsapp 
 ![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/7.png)
 ![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/8.png)
 ![App Screenshot](https://raw.githubusercontent.com/gauravraj0510/WhatsApp-Chat-Data-Analysis/main/example/9.png)
-
-## Demo
-
-https://gauravraj0510-whatsapp-chat-data-analysis-app-njjw5q.streamlitapp.com/
