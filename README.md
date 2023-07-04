@@ -4,7 +4,7 @@ A webapp built using streamlit module in python for analysing exported whatsapp 
 
 ## Demo
 
-https://gauravraj0510-whatsapp-chat-data-analysis-app-njjw5q.streamlitapp.com/
+[Deployed on Streamlit](https://whatsapp-chat-analysis-raj510.streamlit.app/)
 
 ## Screenshots
 
